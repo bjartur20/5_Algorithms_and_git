@@ -1,8 +1,9 @@
 '''
-The sequance is  difined as the sum of the last three numbers
+The sequance is  defined as the sum of the last three numbers
 1. Input from the user which decides how many numbers in the sequance should be printed.
-2. 
-
+2. Give ourselves the first three numbers (1, 2, 3)
+3. Find the next numbers the user asked for by swapping old numbers for the new numbers.
+4. Print the numbers.
 '''
 
 nr_of_sequences = int(input("How many numbers do you want: "))
