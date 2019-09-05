@@ -8,7 +8,9 @@
 #Bjartur Thorhallsson
 
 number = int(input("Input a number: "))
+largest_number = 0
 while number >= 0:
-    largest_number = number
+    if number > largest_number:
+        largest_number = number
     number = int(input("Input a number: "))
 print(largest_number)
