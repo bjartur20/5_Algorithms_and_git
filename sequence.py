@@ -1,6 +1,6 @@
 '''
 The sequance is  difined as the sum of the last three numbers
-1. Input from the user which dicides how many numbers in the sequance should be printed.
+1. Input from the user which decides how many numbers in the sequance should be printed.
 2. 
 
 '''
